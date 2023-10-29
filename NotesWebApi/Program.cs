@@ -5,44 +5,13 @@ using Notes.Persistence;
 using NotesApplication.common.mapping;
 using NotesApplication.Interfaces;
 using NotesPersistence;
+using NotesWebApi.Middleware;
 using static System.Formats.Asn1.AsnWriter;
 
 namespace NotesWebApi
 {
     public class Program
     {
-       /* public static void Main(string[] args)
-        {
-            var builder = WebApplication.CreateBuilder(args);
-
-            builder.Services.AddCors(opt =>
-            {
-                opt.AddPolicy("AllowAll", policy =>
-                {
-                    policy.AllowAnyHeader();
-                    policy.AllowAnyMethod();
-                    policy.AllowAnyOrigin();
-                });
-            });
-            builder.Services.AddControllers();
-            builder.Services.AddDbContext<NoteDbContext>();
-            
-            var app = builder.Build();
-
-            var serviceProvider = app.Services.CreateScope().ServiceProvider;
-
-            var options = serviceProvider.GetRequiredService<DbContextOptions<NoteDbContext>>();
-
-            var context = new NoteDbContext(options);
-            DbInitializer.Init(context);
-
-
-            app.UseCors("AllowAll");
-            app.MapControllers();
-
-            app.Run();
-
-        }*/
        public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
@@ -65,9 +34,11 @@ namespace NotesWebApi
                     policy.AllowAnyOrigin();
                 });
             });
+            builder.Services.AddSwaggerGen();
 
             builder.Services.AddEndpointsApiExplorer();
             var app = builder.Build();
+            app.UseMiddleware<MiddlewareExceptionHandler>();
             using (var scope = app.Services.CreateScope())
             {
                 try
@@ -83,6 +54,13 @@ namespace NotesWebApi
                 }
 
             }
+            app.UseSwagger();
+            app.UseSwaggerUI(
+                options =>
+                {
+                    options.RoutePrefix = string.Empty;
+                    options.SwaggerEndpoint("swagger/v1/swagger.json", "Notes API");
+                });
             app.UseHttpsRedirection();
             app.UseAuthorization();
             app.UseCors("AllowAll");

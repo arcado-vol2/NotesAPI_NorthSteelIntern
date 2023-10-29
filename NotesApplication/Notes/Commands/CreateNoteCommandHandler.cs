@@ -18,7 +18,7 @@ namespace NotesApplication.Notes.Commands
         {
             Note note = new Note
             {
-                userID = request.userID,
+                userID = new Guid("936DA01F-9ABD-4d9d-80C7-02AF85C822A8"), //just for test in real it mast be request.userID
                 head = request.head,
                 body = request.body,
                 ID = Guid.NewGuid(),

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Root\\Documents\\NorthSteel\\NotesBase\\NotesBase.csproj",
+      "projectUniqueName": "C:\\Users\\Root\\Documents\\NotesAPI_NorthSteelIntern\\NotesBase\\NotesBase.csproj",
       "projectName": "NotesBase",
-      "projectPath": "C:\\Users\\Root\\Documents\\NorthSteel\\NotesBase\\NotesBase.csproj",
+      "projectPath": "C:\\Users\\Root\\Documents\\NotesAPI_NorthSteelIntern\\NotesBase\\NotesBase.csproj",
       "packagesPath": "C:\\Users\\Root\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Root\\Documents\\NorthSteel\\NotesBase\\obj\\",
+      "outputPath": "C:\\Users\\Root\\Documents\\NotesAPI_NorthSteelIntern\\NotesBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

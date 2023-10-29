@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NotesPersistence
-build_property.ProjectDir = C:\Users\Root\Documents\NorthSteel\NotesPersistence\
+build_property.ProjectDir = C:\Users\Root\Documents\NotesAPI_NorthSteelIntern\NotesPersistence\

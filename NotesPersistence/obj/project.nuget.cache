@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xTd1sfUeJ7JPxT5WF1oKUoT48Ur9Zfip2YJkggarwhxdzwhAigU9ZaJcQh5sV9mXdqJlNVWHpLiwdQiga2ZJpg==",
+  "dgSpecHash": "3TCAQB8bq01+v0JAFt6qDQZhbkVsMOr/ON7nhqV4qyfWoaMqOhaJn6z3Nr3Xv7YP7yIjpTDfEWeEvvzktW6j5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Root\\Documents\\NorthSteel\\NotesPersistence\\NotesPersistence.csproj",
+  "projectFilePath": "C:\\Users\\Root\\Documents\\NotesAPI_NorthSteelIntern\\NotesPersistence\\NotesPersistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Root\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.8.0\\fluentvalidation.dependencyinjectionextensions.11.8.0.nupkg.sha512",
     "C:\\Users\\Root\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\Root\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Root\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",

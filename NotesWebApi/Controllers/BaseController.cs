@@ -30,7 +30,7 @@ namespace NotesWebApi.Controllers
             {
                 if (!User.Identity.IsAuthenticated)
                 {
-                    return Guid.Empty;
+                    return new Guid("936DA01F-9ABD-4d9d-80C7-02AF85C822A8"); //just for test in real it mast be Guid.Empty;
                 }
                 else
                 {
