@@ -1,0 +1,11 @@
+C:\Users\Root\Documents\NorthSteel\NotesBase\bin\Debug\net6.0\NotesBase.deps.json
+C:\Users\Root\Documents\NorthSteel\NotesBase\bin\Debug\net6.0\NotesBase.dll
+C:\Users\Root\Documents\NorthSteel\NotesBase\bin\Debug\net6.0\NotesBase.pdb
+C:\Users\Root\Documents\NorthSteel\NotesBase\obj\Debug\net6.0\NotesBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Root\Documents\NorthSteel\NotesBase\obj\Debug\net6.0\NotesBase.AssemblyInfoInputs.cache
+C:\Users\Root\Documents\NorthSteel\NotesBase\obj\Debug\net6.0\NotesBase.AssemblyInfo.cs
+C:\Users\Root\Documents\NorthSteel\NotesBase\obj\Debug\net6.0\NotesBase.csproj.CoreCompileInputs.cache
+C:\Users\Root\Documents\NorthSteel\NotesBase\obj\Debug\net6.0\NotesBase.dll
+C:\Users\Root\Documents\NorthSteel\NotesBase\obj\Debug\net6.0\refint\NotesBase.dll
+C:\Users\Root\Documents\NorthSteel\NotesBase\obj\Debug\net6.0\NotesBase.pdb
+C:\Users\Root\Documents\NorthSteel\NotesBase\obj\Debug\net6.0\ref\NotesBase.dll

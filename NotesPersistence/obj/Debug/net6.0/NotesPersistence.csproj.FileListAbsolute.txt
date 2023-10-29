@@ -1,0 +1,17 @@
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\bin\Debug\net6.0\NotesPersistence.deps.json
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\bin\Debug\net6.0\NotesPersistence.dll
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\bin\Debug\net6.0\NotesPersistence.pdb
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\bin\Debug\net6.0\NotesApplication.dll
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\bin\Debug\net6.0\NotesBase.dll
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\bin\Debug\net6.0\NotesApplication.pdb
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\bin\Debug\net6.0\NotesBase.pdb
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\obj\Debug\net6.0\NotesPersistence.csproj.AssemblyReference.cache
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\obj\Debug\net6.0\NotesPersistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\obj\Debug\net6.0\NotesPersistence.AssemblyInfoInputs.cache
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\obj\Debug\net6.0\NotesPersistence.AssemblyInfo.cs
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\obj\Debug\net6.0\NotesPersistence.csproj.CoreCompileInputs.cache
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\obj\Debug\net6.0\NotesPersistence.csproj.CopyComplete
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\obj\Debug\net6.0\NotesPersistence.dll
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\obj\Debug\net6.0\refint\NotesPersistence.dll
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\obj\Debug\net6.0\NotesPersistence.pdb
+C:\Users\Root\Documents\NorthSteel\NotesPersistence\obj\Debug\net6.0\ref\NotesPersistence.dll

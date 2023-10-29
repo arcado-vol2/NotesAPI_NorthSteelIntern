@@ -1,0 +1,15 @@
+C:\Users\Root\Documents\NorthSteel\NotesApplication\bin\Debug\net6.0\NotesApplication.deps.json
+C:\Users\Root\Documents\NorthSteel\NotesApplication\bin\Debug\net6.0\NotesApplication.dll
+C:\Users\Root\Documents\NorthSteel\NotesApplication\bin\Debug\net6.0\NotesApplication.pdb
+C:\Users\Root\Documents\NorthSteel\NotesApplication\bin\Debug\net6.0\NotesBase.dll
+C:\Users\Root\Documents\NorthSteel\NotesApplication\bin\Debug\net6.0\NotesBase.pdb
+C:\Users\Root\Documents\NorthSteel\NotesApplication\obj\Debug\net6.0\NotesApplication.csproj.AssemblyReference.cache
+C:\Users\Root\Documents\NorthSteel\NotesApplication\obj\Debug\net6.0\NotesApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Root\Documents\NorthSteel\NotesApplication\obj\Debug\net6.0\NotesApplication.AssemblyInfoInputs.cache
+C:\Users\Root\Documents\NorthSteel\NotesApplication\obj\Debug\net6.0\NotesApplication.AssemblyInfo.cs
+C:\Users\Root\Documents\NorthSteel\NotesApplication\obj\Debug\net6.0\NotesApplication.csproj.CoreCompileInputs.cache
+C:\Users\Root\Documents\NorthSteel\NotesApplication\obj\Debug\net6.0\NotesApplication.csproj.CopyComplete
+C:\Users\Root\Documents\NorthSteel\NotesApplication\obj\Debug\net6.0\NotesApplication.dll
+C:\Users\Root\Documents\NorthSteel\NotesApplication\obj\Debug\net6.0\refint\NotesApplication.dll
+C:\Users\Root\Documents\NorthSteel\NotesApplication\obj\Debug\net6.0\NotesApplication.pdb
+C:\Users\Root\Documents\NorthSteel\NotesApplication\obj\Debug\net6.0\ref\NotesApplication.dll
