@@ -50,7 +50,7 @@ namespace NotesWebApi
                 catch (Exception)
 
                 {
-                    throw new Exception("You are pidor!");
+                    throw new Exception("That's why your are not employeed!");
                 }
 
             }
